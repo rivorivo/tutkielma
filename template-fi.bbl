@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
   \providebibliographyfont{name}{}%
   \providebibliographyfont{lastname}{}%
   \providebibliographyfont{title}{\emph}%
@@ -13,10 +13,130 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
-\bibitem {esimerkki}
-\btxnamefont {\btxlastnamefont {Diestel}, Reinhard}\btxauthorcolon\
-  \btxtitlefont {Graph Theory}.
-\newblock \btxpublisherfont {Springer}, Berliini, \btxeditionnumlong {3.}{},
-  2005.
+\bibitem {arm11}
+\btxnamefont {\btxlastnamefont {Arsith}, Mirela}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Ludwig wittgenstein and language games (a literary
+  application)}{Ludwig Wittgenstein and Language Games (A Literary
+  Application)}}.
+\newblock \btxjournalfont {Acta Universitatis Danubius. Communicatio}, 5(2),
+  2011.
+
+\bibitem {ber57}
+\btxnamefont {\btxlastnamefont {Bellman}, Richard}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {A markovian decision process}{A Markovian
+  decision process}}.
+\newblock \btxtechreplong {}, DTIC Document, 1957.
+
+\btxselectlanguage {English}
+\bibitem {bes08}
+\btxnamefont {\btxlastnamefont {Bengio}, Y.} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {Senecal}, J.\btxfnamespacelong S.}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Adaptive importance sampling to accelerate
+  training of a neural probabilistic language model}{Adaptive importance
+  sampling to accelerate training of a neural probabilistic language model}}.
+\newblock \btxjournalfont {IEEE Transactions on Neural Networks},
+  19(4):713--722, \btxprintmonthyear{.}{04}{2008}{long}.
+\newblock {\latintext
+  \btxurlfont{https://search.proquest.com/docview/70475557?accountid=11365}}.
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem {dec15}
+\btxnamefont {\btxlastnamefont {Dethlefs}, N.} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {Cuayáhuitl}, H.}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Hierarchical reinforcement learning for situated natural
+  language generation}{Hierarchical reinforcement learning for situated natural
+  language generation}}.
+\newblock \btxjournalfont {Natural Language Engineering}, 21(3):391--435, 2015.
+\newblock {\latintext
+  \btxurlfont{https://www.scopus.com/inward/record.uri?eid=2-s2.0-84930152603&doi=10.1017%2fS1351324913000375&partnerID=40&md5=038aed145428f0426dbecb4e5496b2d0}},
+  cited By 5.
+
+\btxselectlanguage {English}
+\bibitem {khs07}
+\btxnamefont {\btxlastnamefont {Khan}, Shahzad}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Ethem alpaydin. introduction to machine learning}{Ethem
+  Alpaydin. Introduction to Machine Learning}}.
+\newblock \btxjournalfont {Natural Language Engineering}, 14(1):133--137,
+  \btxprintmonthyear{.}{01}{2008}{long}.
+\newblock {\latintext
+  \btxurlfont{https://search.proquest.com/docview/216641061?accountid=11365}},
+  Copyright - 2007 Cambridge University Press; Last updated - 2015-05-30.
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem {let12}
+\btxnamefont {\btxlastnamefont {Lee}, Joanna\btxfnamespacelong C} \btxandlong
+  {}\ \btxnamefont {\btxlastnamefont {Tomblin}, J\btxfnamespacelong
+  Bruce}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {Reinforcement
+  learning in young adults with developmental language
+  impairment}{Reinforcement learning in young adults with developmental
+  language impairment}}.
+\newblock \btxjournalfont {Brain and language}, 123(3):154--163, 2012.
+
+\bibitem {lep98}
+\btxnamefont {\btxlastnamefont {Levin}, E.}, \btxnamefont {\btxlastnamefont
+  {Pieraccini}, R.}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {Eckert}, W.}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Using markov decision process for learning dialogue
+  strategies}{Using Markov decision process for learning dialogue strategies}}.
+\newblock \Btxinlong {}\ \btxtitlefont {ICASSP, IEEE International Conference
+  on Acoustics, Speech and Signal Processing - Proceedings}, \btxvolumelong
+  {}~\btxvolumefont {1}, \btxpageslong {}\ 201--204, 1998.
+\newblock {\latintext
+  \btxurlfont{https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031624616&doi=10.1109%2fICASSP.1998.674402&partnerID=40&md5=408ed492e2482618b3899ec91ccd8799}},
+  cited By 59.
+
+\bibitem {lim15}
+\btxnamefont {\btxlastnamefont {Littman}, Michael\btxfnamespacelong
+  L}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {Reinforcement learning
+  improves behaviour from evaluative feedback}{Reinforcement learning improves
+  behaviour from evaluative feedback}}.
+\newblock \btxjournalfont {Nature}, 521(7553):445--451, 2015.
+
+\bibitem {mam15}
+\btxnamefont {\btxlastnamefont {Maravall}, Dar{\'\i}o}, \btxnamefont
+  {\btxlastnamefont {Mingo}, Jack\btxfnamespacelong Mario}\btxandcomma {}
+  \btxandlong {}\ \btxnamefont {\btxlastnamefont {De~Lope},
+  Javier}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {Alignment in
+  vision-based syntactic language games for teams of robots using stochastic
+  regular grammars and reinforcement learning: The fully autonomous case and
+  the human supervised case}{Alignment in vision-based syntactic language games
+  for teams of robots using stochastic regular grammars and reinforcement
+  learning: The fully autonomous case and the human supervised case}}.
+\newblock \btxjournalfont {Robotics and Autonomous Systems}, 63:180--186, 2015.
+
+\bibitem {mia16}
+\btxnamefont {\btxlastnamefont {Mingo}, Jack\btxfnamespacelong Mario}
+  \btxandlong {}\ \btxnamefont {\btxlastnamefont {Aler},
+  Ricardo}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {A
+  competence-performance based model to develop a syntactic language for
+  artificial agents}{A competence-performance based model to develop a
+  syntactic language for artificial agents}}.
+\newblock \btxjournalfont {Information Sciences}, 373:79--94, 2016.
+
+\bibitem {ril11}
+\btxnamefont {\btxlastnamefont {Rieser}, Verena} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {Lemon}, Oliver}\btxauthorcolon\ \btxtitlefont
+  {Reinforcement learning for adaptive dialogue systems: a data-driven
+  methodology for dialogue management and natural language generation}.
+\newblock \btxpublisherfont {Springer Science \& Business Media}, 2011.
+
+\bibitem {scw06}
+\btxnamefont {\btxlastnamefont {Schatzmann}, Jost}, \btxnamefont
+  {\btxlastnamefont {Weilhammer}, Karl}, \btxnamefont {\btxlastnamefont
+  {Stuttle}, Matt}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {Young}, Steve}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {A survey of statistical user simulation techniques for
+  reinforcement-learning of dialogue management strategies}{A survey of
+  statistical user simulation techniques for reinforcement-learning of dialogue
+  management strategies}}.
+\newblock \btxjournalfont {The knowledge engineering review}, 21(2):97--126,
+  2006.
+
+\bibitem {sub98}
+\btxnamefont {\btxlastnamefont {Sutton}, Richard\btxfnamespacelong S}
+  \btxandlong {}\ \btxnamefont {\btxlastnamefont {Barto},
+  Andrew\btxfnamespacelong G}\btxauthorcolon\ \btxtitlefont {Reinforcement
+  learning: An introduction}, \btxvolumelong {}~\btxvolumefont {1}.
+\newblock \btxpublisherfont {MIT press Cambridge}, 1998.
 
 \end{thebibliography}

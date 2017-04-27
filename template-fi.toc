@@ -5,3 +5,7 @@
 \select@language {finnish}
 \select@language {finnish}
 \select@language {finnish}
+\select@language {finnish}
+\select@language {finnish}
+\select@language {finnish}
+\select@language {finnish}

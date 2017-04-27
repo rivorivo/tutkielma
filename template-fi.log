@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.21)  27 APR 2017 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.4.21)  27 APR 2017 16:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -934,7 +934,49 @@ Package babel Info: Redefining finnish shorthand "|
  [1
 
 
-] (./template-fi.toc)
+] (./template-fi.toc
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 4.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 4.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 4.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 4.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+))
 \tf@toc=\write4
 \openout4 = `template-fi.toc'.
 
@@ -942,12 +984,1451 @@ Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 123.
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 123.
-
-[2
+ [2
 
 ]
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 125.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 139.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 142.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 142.
+ [1
+
+]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 145.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 151.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 155.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 155.
+
+[2]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 159.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 166.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 166.
+ [3]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 167.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 176.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 179.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 179.
+ [4]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 186.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 191.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 191.
+ [5]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 205.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 205.
+ [6]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 206.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 217.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 217.
+ [7]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 220.
+
+
+! Package inputenc Error: Unicode char ● (U+25CF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 ●
+            S = {s₁, s₂, s₃...sₙ} on äärellinen tilatietojen joukk...
+
+? 
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 ●   S = {s₁
+                     , s₂, s₃...sₙ} on äärellinen tilatietojen joukk...
+
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 ●   S = {s₁, s₂
+                           , s₃...sₙ} on äärellinen tilatietojen joukk...
+
+? 
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 ●   S = {s₁, s₂, s₃
+                                 ...sₙ} on äärellinen tilatietojen joukk...
+
+? 
+
+! Package inputenc Error: Unicode char ₙ (U+2099)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 ●   S = {s₁, s₂, s₃...sₙ
+                                        } on äärellinen tilatietojen joukk...
+
+? 
+
+! Package inputenc Error: Unicode char ● (U+25CF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ●
+            A = {a₁, a₂, a₃..., aₘ} on äärellinen toimintojen jouk...
+
+? 
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ●   A = {a₁
+                     , a₂, a₃..., aₘ} on äärellinen toimintojen jouk...
+
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ●   A = {a₁, a₂
+                           , a₃..., aₘ} on äärellinen toimintojen jouk...
+
+? 
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ●   A = {a₁, a₂, a₃
+                                 ..., aₘ} on äärellinen toimintojen jouk...
+
+? 
+
+! Package inputenc Error: Unicode char ₘ (U+2098)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.228 ●   A = {a₁, a₂, a₃..., aₘ
+                                          } on äärellinen toimintojen jouk...
+
+? 
+
+! Package inputenc Error: Unicode char ● (U+25CF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.230 ●
+            T on todennäköisyyteen perustuva tilanvaihdosfunktio. Sen funk...
+
+? 
+
+! Package inputenc Error: Unicode char ′ (U+2032)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.230 ...a tilanvaihdosfunktio. Sen funktio P(s′
+                                                  |s, a) kertoo mihin tilaan...
+
+? 
+
+! Package inputenc Error: Unicode char ● (U+25CF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 ●
+            R on palkintofunktio R(s′|s, a), joka kertoo minkä numeerisen...
+
+? 
+
+! Package inputenc Error: Unicode char ′ (U+2032)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 ●   R on palkintofunktio R(s′
+                                       |s, a), joka kertoo minkä numeerisen...
+
+? 
+
+! Package inputenc Error: Unicode char ∈ (U+2208)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ...ti saa ympäristöltä tilatiedon s 0 ∈
+                                                   S ja suorittaa toiminnon ...
+
+? 
+
+! Package inputenc Error: Unicode char ∈ (U+2208)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ... s 0 ∈ S ja suorittaa toiminnon a 0 ∈
+                                                   A.  Kuvassa 3.1 on kuvatt...
+
+? 
+
+! Package inputenc Error: Unicode char ∈ (U+2208)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ...a r. Sen täytyy suorittaa toiminta a ∈
+                                                   A ja palautteena se saa p...
+
+? 
+
+! Package inputenc Error: Unicode char ´ (U+B4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ...∈ A ja palautteena se saa palkinnon r´
+                                                   ∈ R, minkä lisäksi se...
+
+? 
+
+! Package inputenc Error: Unicode char ∈ (U+2208)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ...A ja palautteena se saa palkinnon r´ ∈
+                                                   R, minkä lisäksi se saa...
+
+? 
+
+! Package inputenc Error: Unicode char ´ (U+B4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ...�ksi se saa tietoonsa seuraavan tilan s´
+                                                   ∈ S.
+? 
+
+! Package inputenc Error: Unicode char ∈ (U+2208)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ... se saa tietoonsa seuraavan tilan s´ ∈
+                                                   S.
+? 
+
+! Package inputenc Error: Unicode char ´ (U+B4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236 ...oja, toimintoja ja palkintoja: {s, a, r´
+                                                  , s´, a´, . . ., r*, s*}...
+
+? 
+
+! Package inputenc Error: Unicode char ´ (U+B4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236 ...toimintoja ja palkintoja: {s, a, r´, s´
+                                                  , a´, . . ., r*, s*}. Mer...
+
+? 
+
+! Package inputenc Error: Unicode char ´ (U+B4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.236 ...ntoja ja palkintoja: {s, a, r´, s´, a´
+                                                  , . . ., r*, s*}. Merkit r...
+
+? 
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 237.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 237.
+[8]
+
+! Package inputenc Error: Unicode char γ (U+3B3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ... painoarvoja säädellään symbolilla γ
+                                                   kuvattavalla muuttujalla,...
+
+? 
+
+! Package inputenc Error: Unicode char ₜ (U+209C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...�. Palkinnot summautuvat tällöin: {rₜ
+                                                  + γrₜ₊₁+ γ²rₜ�...
+
+? 
+
+! Package inputenc Error: Unicode char γ (U+3B3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...alkinnot summautuvat tällöin: {rₜ+ γ
+                                                  rₜ₊₁+ γ²rₜ₊₂...
+
+? 
+
+! Package inputenc Error: Unicode char ₜ (U+209C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...nnot summautuvat tällöin: {rₜ+ γrₜ
+                                                  ₊₁+ γ²rₜ₊₂…}...
+
+? 
+
+! Package inputenc Error: Unicode char ₊ (U+208A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...t summautuvat tällöin: {rₜ+ γrₜ₊
+                                                  ₁+ γ²rₜ₊₂…}, a...
+
+? 
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...ummautuvat tällöin: {rₜ+ γrₜ₊₁
+                                                  + γ²rₜ₊₂…}, alai...
+
+? 
+
+! Package inputenc Error: Unicode char γ (U+3B3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...utuvat tällöin: {rₜ+ γrₜ₊₁+ γ
+                                                  ²rₜ₊₂…}, alaindek...
+
+? 
+
+! Package inputenc Error: Unicode char ² (U+B2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...uvat tällöin: {rₜ+ γrₜ₊₁+ γ²
+                                                  rₜ₊₂…}, alaindeksi...
+
+? 
+
+! Package inputenc Error: Unicode char ₜ (U+209C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ... tällöin: {rₜ+ γrₜ₊₁+ γ²rₜ
+                                                  ₊₂…}, alaindeksin t ...
+
+? 
+
+! Package inputenc Error: Unicode char ₊ (U+208A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...�llöin: {rₜ+ γrₜ₊₁+ γ²rₜ₊
+                                                  ₂…}, alaindeksin t mer...
+
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...öin: {rₜ+ γrₜ₊₁+ γ²rₜ₊₂
+                                                  …}, alaindeksin t merkit...
+
+? 
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 245.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.254 ...än muuttujilla, jotka ovat kuvassa orig_
+                                                  city, dest_city, depart_da...
+
+? 
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 ...nknown” ja ”confimed”. Tilassa s₁
+                                                   muuttuja orig_city on arv...
+
+? 
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 254.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+4.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.255 
+      
+? 
+
+Overfull \hbox (2011.01129pt too wide) in paragraph at lines 254--255
+\T1/lmr/m/n/10.95 (-20) maa-tio esi-te-t��n muut-tu-jil-la, jot-ka ovat ku-vas-
+sa orig$[]\OML/lmm/m/it/10.95 ity; dest[]ity; depart[]atejadepart[]ime:Tilojenm
+ahdollisetarvotovat\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 known\OT1/lm
+r/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm
+/m/it/10.95 unknown\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 ja\OT1/lmr/m
+/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 confimed\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/
+lmm/m/it/10.95 :Tilassasmuuttujaorig[]ityonarvossa\OT1/lmr/m/n/10.95 (-20) ^^Q\
+OML/lmm/m/it/10.95 confirmed\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 ; m
+ik\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 tarkoittaa; ett\OT1/lmr/m/n/10.
+95 (-20) �\OML/lmm/m/it/10.95 lennonl\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10
+.95 ht\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 kaupunkionvarmistettu:Muutt
+ujadest[]ityonarvossa\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 known\OT1/
+lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 ; jotenlennonkohteenaolevastakaupung
+istaonsaatutieto; muttaset\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ytyyvie
+l\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 varmistaa:Muuttujatdepart[]ateja
+depart[]imeelil\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 hd\OT1/lmr/m/n/10.
+95 (-20) �\OML/lmm/m/it/10.95 np\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 i
+v\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 jaaikaeiv\OT1/lmr/m/n/10.95 (-20
+) �\OML/lmm/m/it/10.95 tviel\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 oleti
+edossa; jotenniidenarvoon\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 unknow
+n\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 :$ 
+ []
+
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.256 ... 3.2 on kuvattuna keskustelutoiminto a₂
+                                                  , jossa vahvistetaan kesku...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.256 ...n keskustelukumppanille toiminnolla impl_
+                                                  conf, että kohdekaupunki ...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+6.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+6.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+6.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+6.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+6.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 256.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+6.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.257 
+      
+? 
+
+Overfull \hbox (1268.71425pt too wide) in paragraph at lines 256--257
+\T1/lmr/m/n/10.95 (-20) impl$[]\OML/lmm/m/it/10.95 onf; ett\OT1/lmr/m/n/10.95 (
+-20) �\OML/lmm/m/it/10.95 kohdekaupunkion\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m
+/it/10.95 london\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 jatiedustellaan
+requ[]nfo \OMS/lmsy/m/n/10.95 ^^@ \OML/lmm/m/it/10.95 toiminnollal\OT1/lmr/m/n/
+10.95 (-20) �\OML/lmm/m/it/10.95 ht\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.9
+5 p\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 iv\OT1/lmr/m/n/10.95 (-20) ��\
+OML/lmm/m/it/10.95 :Yleens\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 opittav
+atkeskustelutoiminnotovatesitettyn\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95
+ niidentarkoituksenperusteellakuvattuinasemanttisinapuhetoimintoina:Lopullisess
+asovelluksessak\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ytet\OT1/lmr/m/n/1
+0.95 (-20) ��\OML/lmm/m/it/10.95 ntavallisestivalmiisiinkuvioihinperustuvaaluon
+nollisenkielentuottamista\OT1/lmr/m/n/10.95 (-20) [\OML/lmm/m/it/10.95 RiO\OT1/
+lmr/m/n/10.95 (-20) 11]\OML/lmm/m/it/10.95 : <
+ []
+
+
+Overfull \hbox (416.68993pt too wide) in paragraph at lines 256--257
+\OML/lmm/m/it/10.95 Requ[]nfo; depart[]ate > tuottamailmaisuvoisikuuluasuomeksi
+\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 Min\OT1/lmr/m/n/10.95 (-20) �\O
+ML/lmm/m/it/10.95 p\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 iv\OT1/lmr/m/n
+/10.95 (-20) �\OML/lmm/m/it/10.95 n\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.9
+5 haluattel\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 hte\OT1/lmr/m/n/10.95 
+(-20) �?^^Q\OML/lmm/m/it/10.95 tai; yksinkertaisenautomaatinollessakyseess\OT1/
+lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ; pelk\OT1/lmr/m/n/10.95 (-20) �\OML/l
+mm/m/it/10.95 st\OT1/lmr/m/n/10.95 (-20) ��\OML/lmm/m/it/10.95 nkehotus \OT1/lm
+r/m/n/10.95 (-20) :
+ []
+
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 258.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 258.
+[9]
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ... mallinnetussa verkon osassa tilassa s₁
+                                                   suoritettu toiminto a₂ ...
+
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ...ssa tilassa s₁ suoritettu toiminto a₂
+                                                   johtaa tilaan s₃ väist...
+
+? 
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ...oritettu toiminto a₂ johtaa tilaan s₃
+                                                   väistämättä eli toden...
+
+? 
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ...eli todennäköisyydellä 1. Tilassa s₃
+                                                   on esimerkiksi tiedustelt...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.258 ...in kysymykseen saadaan vastaus ja depart_
+                                                  date muuttuu arvoon ”kno...
+
+? 
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ...oja olisi useampia, voisi toiminolla a₂
+                                                   päätyä uuteen tilaan e...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ...sa tilassa ”confirmed”. Toiminto a₁
+                                                   taas johtaa, joko tilaan ...
+
+? 
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ...iminto a₁ taas johtaa, joko tilaan s₃
+                                                   tai s₂, joista molemmil...
+
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ...�� taas johtaa, joko tilaan s₃ tai s₂
+                                                  , joista molemmilla siirty...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.258 ...suoran tiedustelun tuottamaan tilaan s₃
+                                                  , jossa päivä ja aika on...
+
+? 
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \" invalid in math mode on input line 258.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+
+LaTeX Warning: Command \textquotedblright invalid in math mode on input line 25
+8.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.259 
+      
+? 
+
+Overfull \hbox (1831.22235pt too wide) in paragraph at lines 258--259
+\T1/lmr/m/n/10.95 (-20) v��, jol-loin ky-sy-myk-seen saa-daan vas-taus ja depar
+t$[]\OML/lmm/m/it/10.95 atemuuttuuarvoon\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/
+it/10.95 known\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 :Samallakaupunkiv
+armistetaan; jotendest[]itymuuttuuarvoon\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/
+it/10.95 confirmed\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 :Dialogiautom
+aatinkanssaonsiin\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 mieless\OT1/lmr/
+m/n/10.95 (-20) �\OML/lmm/m/it/10.95 hyvinrajattu; ett\OT1/lmr/m/n/10.95 (-20) 
+�\OML/lmm/m/it/10.95 k\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ytt\OT1/lmr
+/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 j\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/
+10.95 nainoavaihtoehtotilanteessaonantaap\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/i
+t/10.95 iv\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 m\OT1/lmr/m/n/10.95 (-2
+0) ��\OML/lmm/m/it/10.95 r\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 :Josvai
+htoehtojaolisiuseampia; voisitoiminollaap\OT1/lmr/m/n/10.95 (-20) ��\OML/lmm/m/
+it/10.95 ty\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 uuteentilaanesimerkiks
+itapauksessa; jossak\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ytt\OT1/lmr/m
+/n/10.95 (-20) �\OML/lmm/m/it/10.95 j\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10
+.95 eitied\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 viel\OT1/lmr/m/n/10.95 
+(-20) �\OML/lmm/m/it/10.95 haluttual\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.
+95 ht\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 p\OT1/lmr/m/n/10.95 (-20) �\
+OML/lmm/m/it/10.95 iv\OT1/lmr/m/n/10.95 (-20) ��\OML/lmm/m/it/10.95 jadepart[]a
+tej\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 isitilaan\OT1/lmr/m/n/10.95 (-
+20) ^^Q\OML/lmm/m/it/10.95 unknown\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.
+95 dest[]ity \OT1/lmr/m/n/10.95 (-20) :
+ []
+
+
+Overfull \hbox (1060.1786pt too wide) in paragraph at lines 258--259
+\OML/lmm/m/it/10.95 nollessatilassa\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10
+.95 confirmed\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 :Toimintoataasjoht
+aa; jokotilaanstais; joistamolemmillasiirtymill\OT1/lmr/m/n/10.95 (-20) �\OML/l
+mm/m/it/10.95 onomattilanvaihdosfunktionm\OT1/lmr/m/n/10.95 (-20) ��\OML/lmm/m/
+it/10.95 rittelem\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ttodenn\OT1/lmr/
+m/n/10.95 (-20) �\OML/lmm/m/it/10.95 k\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/1
+0.95 isyytens\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 :Sevoidaankuvitellae
+simerkiksitoiminnoksi; jossak\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ytt\
+OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 j\OT1/lmr/m/n/10.95 (-20) �\OML/lm
+m/m/it/10.95 lleannetaantiedustelu; johont\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/
+it/10.95 m\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 voiantaal\OT1/lmr/m/n/1
+0.95 (-20) �\OML/lmm/m/it/10.95 ht\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95
+ p\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 iv\OT1/lmr/m/n/10.95 (-20) �\OM
+L/lmm/m/it/10.95 ntail\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ht\OT1/lmr/
+m/n/10.95 (-20) �\OML/lmm/m/it/10.95 p\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/1
+0.95 iv\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 nja \OMS/lmsy/m/n/10.95 ^^
+@
+ []
+
+
+Overfull \hbox (1302.55112pt too wide) in paragraph at lines 258--259
+\OML/lmm/m/it/10.95 ajan:Samallavarmistetaanjokatapauksessakohdekaupunki:T\OT1/
+lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 m\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/
+it/10.95 johtaapalauteoppimisenavullasaaduntiedonperusteellaesimerkiksitodenn\O
+T1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 k\OT1/lmr/m/n/10.95 (-20) �\OML/lmm
+/m/it/10.95 isyydell\OT1/lmr/m/n/10.95 (-20) �0\OML/lmm/m/it/10.95 :\OT1/lmr/m/
+n/10.95 (-20) 8\OML/lmm/m/it/10.95 suorantiedusteluntuottamaantilaans; jossap\O
+T1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 iv\OT1/lmr/m/n/10.95 (-20) �\OML/lm
+m/m/it/10.95 jaaikaonannettu; muttatodenn\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/i
+t/10.95 k\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 isyydell\OT1/lmr/m/n/10.
+95 (-20) �0\OML/lmm/m/it/10.95 :\OT1/lmr/m/n/10.95 (-20) 2\OML/lmm/m/it/10.95 t
+ilaan; jossakeskustelukumppanieiviel\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.
+95 kerrol\OT1/lmr/m/n/10.95 (-20) �\OML/lmm/m/it/10.95 ht\OT1/lmr/m/n/10.95 (-2
+0) �\OML/lmm/m/it/10.95 aikaajadepart[]imej\OT1/lmr/m/n/10.95 (-20) ��\OML/lmm/
+m/it/10.95 arvoon\OT1/lmr/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 unknown\OT1/lm
+r/m/n/10.95 (-20) ^^Q\OML/lmm/m/it/10.95 :$ 
+ []
+
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...esta saadaan. Koska esimerkin tilaan s₃
+                                                   siirtyminen tuottaa enemm...
+
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...a ja suuremman palkinnon kuin tilaan s₂
+                                                   siirtyminen, kannattaa va...
+
+? 
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...öisemmin isomman palkinnon, tilassa s₁
+                                                   suoritettuna, tuottama to...
+
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...s₁ suoritettuna, tuottama toiminto a₂
+                                                  . Keskustelustrategiaa var...
+
+? 
+
+! Package inputenc Error: Unicode char γ (U+3B3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...tojen painoarvoa säätelevä muuttuja γ
+                                                   asetetaan yleensä lähel...
+
+? 
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 264.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 265.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 266.
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 <Lause> = <esine><suhde><esine>    p₁
+                                             ,
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.272     <esine><esine><suhde>p₂
+                                   ,
+? 
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273     <suhde><esine><esine>p₃
+                                   .
+? 
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 275.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 275.
+[10]
+
+! Package inputenc Error: Unicode char ₁ (U+2081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275 ...iset vaihtoehdot. Todennäköisyydet p₁
+                                                  , p₂ ja p₃ alustettiin...
+
+? 
+
+! Package inputenc Error: Unicode char ₂ (U+2082)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275 ...aihtoehdot. Todennäköisyydet p₁, p₂
+                                                   ja p₃ alustettiin kaikk...
+
+? 
+
+! Package inputenc Error: Unicode char ₃ (U+2083)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275 ...ot. Todennäköisyydet p₁, p₂ ja p₃
+                                                   alustettiin kaikki aluksi...
+
+? 
+
+! Package inputenc Error: Unicode char ⅓ (U+2153)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.275 ...p₃ alustettiin kaikki aluksi arvoon ⅓
+                                                  . Robotit kuvailivat parei...
+
+? 
+
+! Package inputenc Error: Unicode char ≤ (U+2264)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.277 If [random ≤
+                     δ] then
+? 
+
+! Package inputenc Error: Unicode char δ (U+3B4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.277 If [random ≤ δ
+                       ] then
+? 
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 291.
+
+! Package inputenc Error: Unicode char ¹ (U+B9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 ...sia parametreja potentiaalisesti 100000¹
+                                                  ⁰-1 = 10⁵⁰-1 [BeY08]...
+
+? 
+
+! Package inputenc Error: Unicode char ⁰ (U+2070)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 ... parametreja potentiaalisesti 100000¹⁰
+                                                  -1 = 10⁵⁰-1 [BeY08]. O...
+
+? 
+
+! Package inputenc Error: Unicode char ⁵ (U+2075)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 ...ja potentiaalisesti 100000¹⁰-1 = 10⁵
+                                                  ⁰-1 [BeY08]. Ongelmaa on...
+
+? 
+
+! Package inputenc Error: Unicode char ⁰ (U+2070)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 ...potentiaalisesti 100000¹⁰-1 = 10⁵⁰
+                                                  -1 [BeY08]. Ongelmaa on yl...
+
+? 
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 294.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 294.
+[11]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 302.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 302.
+ [12]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 307.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 313.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 313.
+ [13]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 313.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 321.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 326.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 326.
+ [14]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 334.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 334.
+ [15]
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 335.
  (./template-fi.bbl
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 1.
@@ -982,50 +2463,11 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 40.
-
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 40.
-
-(/usr/share/texmf/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 40.
-
-
-(/usr/share/texmf/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 40.
-
-
-(/usr/share/texmf/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 40.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 40.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 40.
-LaTeX Font Info:    Try loading font information for U+msa on input line 40.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 40.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 41.
+ [16]
 Underfull \hbox (badness 10000) in paragraph at lines 44--53
 \T1/lmtt/m/n/10.95 eid = 2-[]s2 . 0-[]84930152603 & doi = 10 . 1017 % 2fS135132
 4913000375 &
@@ -1061,44 +2503,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--87
  []
 
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 106.
+(babel)             in language  on input line 134.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 106.
-[1
-
-])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+(babel)             in language  on input line 134.
+[17])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 380.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 167.
+(babel)             in language  on input line 380.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 167.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
+(babel)             in language  on input line 380.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 380.
  (./template-fi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 380.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 380.
 Package rerunfilecheck Info: File `template-fi.out' has not changed.
-(rerunfilecheck)             Checksum: 1A8A893457EEFEAA5243F59D005EA22D;94.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
+(rerunfilecheck)             Checksum: 3756AD25771117DD3AA807E1FDC4F005;1424.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 380.
  ) 
 Here is how much of TeX's memory you used:
- 9916 strings out of 493029
- 146276 string characters out of 6136234
- 283821 words of memory out of 5000000
- 13192 multiletter control sequences out of 15000+600000
- 45316 words of font info for 69 fonts, out of 8000000 for 9000
+ 10053 strings out of 493029
+ 147713 string characters out of 6136234
+ 284981 words of memory out of 5000000
+ 13239 multiletter control sequences out of 15000+600000
+ 50638 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,8n,35p,252b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
-public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt
-10.pfb>
-Output written on template-fi.pdf (5 pages, 190658 bytes).
+ 31i,8n,35p,1603b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
+/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm
+/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
+8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on template-fi.pdf (21 pages, 268620 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
- 13841 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 296 PDF objects out of 1000 (max. 8388607)
+ 260 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 14497 words of extra memory for PDF output out of 17280 (max. 10000000)
 
